@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SalesOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <Status>packed</Status>
+    <TotalGrams>500</TotalGrams>
+    <ClientId>1111CT11111</ClientId>
+    <Items>
+      <Item>
+        <ProductId>334123QW56TY5</ProductId>
+        <Quantity>4</Quantity>
+        <Sku>SKU-1</Sku>
+      </Item>
+      <Item>
+        <ProductId>5425PT1734220</ProductId>
+        <Quantity>1</Quantity>
+        <Sku>SKU-6</Sku>
+      </Item>
+    </Items>
+  </Order>
+</SalesOrder>
